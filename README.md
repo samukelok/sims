@@ -11,7 +11,7 @@
 - [Database Structure](#-database-structure)
 - [File Structure](#-file-structure)
 - [Setup Guide](#-setup-guide)
-- [Areas for Improvement](#areas-for-improvement)
+- [Areas for Improvement](#-areas-for-improvement)
 
 ## 🌟 Project Overview
 
