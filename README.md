@@ -134,4 +134,6 @@ The system follows a MVC-like pattern with:
 - 🗃️ Implement proper MVC architecture
 - 🧪 Add unit/integration tests
 - 📦 Dockerize the application
+- 🔄 More of CI/CD pipeline
 
+###Thank you for visiting.
