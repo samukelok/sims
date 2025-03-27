@@ -1,7 +1,7 @@
 # 🚀 Smart Inventory Management System (SIMS)
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x400?text=SIMS+Dashboard+Screenshot" alt="SIMS Dashboard">
+  <img src="https://ucarecdn.com/e21998fa-f2ff-4d75-a96e-2a878cbf1582/sims.png" alt="SIMS Dashboard">
   <p><em>Live Demo: <a href="http://sims.ct.ws/" target="_blank">http://sims.ct.ws/</a></em></p>
 </div>
 
