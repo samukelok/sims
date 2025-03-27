@@ -8,7 +8,7 @@
 ## 📖 Table of Contents
 - [Project Overview](#-project-overview)
 - [Features](#-features)
-- [Database Structure](#-database-structure)
+- [Database Structure](#--database-structure)
 - [File Structure](#-file-structure)
 - [Setup Guide](#-setup-guide)
 - [Areas for Improvement](#-areas-for-improvement)
@@ -134,4 +134,4 @@ The system follows a MVC-like pattern with:
 - 📦 Dockerize the application
 - 🔄 More of CI/CD pipeline
 
-###Thank you for visiting.
+### Thank you for visiting.
