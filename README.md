@@ -112,7 +112,7 @@ The system follows a MVC-like pattern with:
    Visit http://localhost/sims on your browser
    Use default credentials or register new account
 
-### 🔧 Areas for Improvement
+## 🔧 Areas for Improvement
 ## Security Enhancements
 - 🔐 Implement password hashing (bcrypt/Argon2)
 - 🛡️ Add CSRF protection for forms
