@@ -100,3 +100,19 @@ The system follows a MVC-like pattern with:
    ```bash
    Import sims.sql into your MySQL server 
    Configure credentials in db_connection.php
+3. **Install dependencies**
+   ```bash
+   composer install
+   ```bash
+   composer require phpmailer/phpmailer
+
+4. **Configure the environment**
+   ```bash
+   Set up virtual host or run in htdocs
+   Ensure proper file permissions
+
+5. **Access the application**
+   ```bash
+   Visit http://localhost/sims in your browser
+   Use default credentials or register new account
+   
