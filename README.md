@@ -47,7 +47,7 @@
 ## 🗃️ Database Structure
 
 ### ER Diagram
-![ER Diagram](https://via.placeholder.com/600x400?text=ERD+Diagram) *(Replace with your actual ERD image)*
+![ER Diagram](https://ucarecdn.com/eee307cc-80fe-41cd-af34-8401462369a6/_inventorymanagementsystem_db.png) 
 
 Key Tables:
 - `admin_logins` - User authentication credentials
@@ -56,8 +56,7 @@ Key Tables:
 - `suppliers` - Vendor details and relationships
 
 ### Data Flow
-![Flow Diagram](https://via.placeholder.com/600x400?text=Flow+Diagram) *(Replace with your actual flow diagram)*
-
+![Flow Diagram](https://ucarecdn.com/ad163bd7-ebec-4a5c-85ea-1b4410ea152d/flow_diagram.png) 
 The system follows a MVC-like pattern with:
 1. User requests → PHP controllers
 2. Data processing → MySQL queries
