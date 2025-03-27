@@ -87,7 +87,7 @@ The system follows a MVC-like pattern with:
 
 ### Prerequisites
 - XAMPP/WAMP/MAMP stack
-- PHP 7.4+
+- PHP 8+
 - MySQL 5.7+
 - Composer (for dependencies)
 
