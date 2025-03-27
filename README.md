@@ -8,7 +8,7 @@
 ## 📖 Table of Contents
 - [Project Overview](#-project-overview)
 - [Features](#-features)
-- [Database Structure](#-database-structure)
+- [Database Structure](#database-structure)
 - [File Structure](#-file-structure)
 - [Setup Guide](#setup-guide)
 - [Areas for Improvement](#-areas-for-improvement)
@@ -43,6 +43,7 @@
 - Session-based authentication
 
 ## 🗃️ Database Structure
+<a id= 'database-structure'></a>
 
 ### ER Diagram
 ![ER Diagram](https://ucarecdn.com/eee307cc-80fe-41cd-af34-8401462369a6/_inventorymanagementsystem_db.png) 
