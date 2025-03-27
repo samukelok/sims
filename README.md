@@ -99,19 +99,19 @@ The system follows a MVC-like pattern with:
 2. **Set up the database**
    ```bash
    Import sims.sql into your MySQL server 
-   Configure credentials in db_connection.php
+   Configure credentials inside db_connection.php
 3. **Install dependencies**
    ```bash
    composer install
 
 4. **Configure the environment**
    ```bash
-   Set up virtual host or run in htdocs
+   Set up virtual host or run on htdocs
    Ensure proper file permissions
 
 5. **Access the application**
    ```bash
-   Visit http://localhost/sims in your browser
+   Visit http://localhost/sims on your browser
    Use default credentials or register new account
 
 ### 🔧 Areas for Improvement
