@@ -94,8 +94,9 @@ The system follows a MVC-like pattern with:
 ### Installation Steps
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/sims.git
+   git clone https://github.com/samukelok/sims.git
    cd sims
-2. **Set up the database** <br>
-   Import sims.sql into your MySQL server <br>
+2. **Set up the database**
+   ```bash
+   Import sims.sql into your MySQL server 
    Configure credentials in db_connection.php
