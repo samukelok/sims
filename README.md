@@ -96,3 +96,6 @@ The system follows a MVC-like pattern with:
    ```bash
    git clone https://github.com/yourusername/sims.git
    cd sims
+2. **Set up the database**
+   Import sims.sql into your MySQL server
+   Configure credentials in db_connection.php
