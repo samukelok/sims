@@ -10,7 +10,7 @@
 - [Features](#-features)
 - [Database Structure](#-database-structure)
 - [File Structure](#-file-structure)
-- [Setup Guide](#-setup-guide)
+- [Setup Guide](#setup-guide)
 - [Areas for Improvement](#-areas-for-improvement)
 
 ## 🌟 Project Overview
@@ -82,6 +82,7 @@ The system follows a MVC-like pattern with:
 | `sims.sql` | Database schema and initial data |
 
 ## 🛠️ Setup Guide
+<a id = 'setup-guide'></a>
 
 ### Prerequisites
 - XAMPP/WAMP/MAMP stack
