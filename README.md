@@ -103,8 +103,6 @@ The system follows a MVC-like pattern with:
 3. **Install dependencies**
    ```bash
    composer install
-   ```bash
-   composer require phpmailer/phpmailer
 
 4. **Configure the environment**
    ```bash
@@ -115,4 +113,25 @@ The system follows a MVC-like pattern with:
    ```bash
    Visit http://localhost/sims in your browser
    Use default credentials or register new account
-   
+
+### 🔧 Areas for Improvement
+## Security Enhancements
+- 🔐 Implement password hashing (bcrypt/Argon2)
+- 🛡️ Add CSRF protection for forms
+- 🔒 Implement role-based access control
+- 📝 Add password complexity requirements
+- 🕵️‍♂️ Regular security audits
+
+## Functional Improvements
+- 🛒 E-commerce integration for a more automatic feel on managing inventory and sales
+- 📱 Mobile-responsive redesign
+- 📦 Barcode scanning capability for stock taking
+- 📊 Advanced reporting module
+- 🔄 Real-time inventory sync
+
+## Technical Upgrades
+- 🏗️ Migrate to Laravel framework
+- 🗃️ Implement proper MVC architecture
+- 🧪 Add unit/integration tests
+- 📦 Dockerize the application
+
